@@ -1,4 +1,4 @@
-![Leia com atenção](https://github.com/marlustavares/Arquivos/blob/main/img/o-estudo-nao-e-uma-obrigacao-mas-sim-um.jpg)
+![Leia com atenção](https://github.com/marlustavares/Arquivos/blob/main/img/o-estudo-nao-e-uma-obrigacao-mas-sim-um.jpg?raw=true)
 ### Olá,Seja bem vindo 👋
 
 <!--
